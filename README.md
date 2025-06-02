@@ -1,7 +1,3 @@
-Claro, Francieudes! Abaixo está um **README completo** em português para documentar todo o seu projeto de extensão "Sistema de Divulgação de Eventos Culturais". Esse README pode ser utilizado no **GitHub**, **portfólio pessoal** ou em relatórios/documentos de entrega.
-
----
-
 ```markdown
 # 🎭 Sistema de Divulgação de Eventos Culturais
 
