@@ -1,4 +1,4 @@
-```markdown
+**```markdown
 # 🎭 Sistema de Divulgação de Eventos Culturais
 
 Projeto de Extensão II — Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas  
@@ -164,3 +164,4 @@ Este projeto é de código aberto sob a licença MIT. Sinta-se à vontade para u
 
 Deseja que eu gere esse README como um arquivo `.md` ou `.pdf` para você? Posso também anexá-lo ao projeto ou formatá-lo no seu documento final.
 ```
+**
