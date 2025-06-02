@@ -54,7 +54,7 @@ O sistema é totalmente funcional, de fácil uso e acessível via navegador. Ele
 ├── cadastro.php        # Formulário de cadastro de novos eventos
 ├── salvar.php          # Script PHP que processa o formulário
 ├── imagens/            # Pasta para salvar as imagens dos eventos
-├── conexao.php         # Arquivo de conexão com o banco de dados (opcional)
+├── conexao.php         # Arquivo de conexão com o banco de dados (opcional) modo de usar -> require_once("conexao.php")
 └── banco.sql           # Script de criação da base de dados
 
 ```
