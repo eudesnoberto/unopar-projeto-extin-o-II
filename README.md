@@ -1,5 +1,4 @@
-**```markdown
-# 🎭 Sistema de Divulgação de Eventos Culturais
+#  Sistema de Divulgação de Eventos Culturais
 
 Projeto de Extensão II — Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas  
 Aluno: **Francieudes Silva Noberto Alves**  
@@ -9,7 +8,7 @@ Instituição: UNOPAR
 
 ---
 
-## 📌 Descrição do Projeto
+##  Descrição do Projeto
 
 Este projeto foi desenvolvido no contexto do **Programa de Ação e Difusão Cultural** com o objetivo de aplicar conhecimentos de tecnologia da informação em benefício da cultura local. A solução consiste em um sistema web simples para **cadastro, gerenciamento e divulgação de eventos culturais** como feiras, exposições, apresentações artísticas e oficinas, voltado a grupos culturais e instituições locais.
 
@@ -17,7 +16,7 @@ O sistema é totalmente funcional, de fácil uso e acessível via navegador. Ele
 
 ---
 
-## 🎯 Objetivos do Projeto
+##  Objetivos do Projeto
 
 - Desenvolver um sistema computacional funcional, com interface amigável;
 - Ajudar instituições e coletivos culturais a divulgar suas atividades;
@@ -27,7 +26,7 @@ O sistema é totalmente funcional, de fácil uso e acessível via navegador. Ele
 
 ---
 
-## 🌱 Metas ODS relacionadas
+##  Metas ODS relacionadas
 
 - **ODS 4 — Educação de Qualidade**  
 - **ODS 8 — Trabalho Decente e Crescimento Econômico**  
@@ -35,7 +34,7 @@ O sistema é totalmente funcional, de fácil uso e acessível via navegador. Ele
 
 ---
 
-## 🔧 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - HTML5, CSS3 e JavaScript
 - PHP (backend)
@@ -62,7 +61,7 @@ O sistema é totalmente funcional, de fácil uso e acessível via navegador. Ele
 
 ---
 
-## 🧩 Funcionalidades
+##  Funcionalidades
 
 - ✅ Cadastro de eventos com nome, data, local, descrição e imagem
 - ✅ Visualização de eventos em ordem de cadastro
@@ -72,7 +71,7 @@ O sistema é totalmente funcional, de fácil uso e acessível via navegador. Ele
 
 ---
 
-## 📸 Exemplo de Tela
+##  Exemplo de Tela
 
 ```
 
@@ -90,7 +89,7 @@ O sistema é totalmente funcional, de fácil uso e acessível via navegador. Ele
 
 ---
 
-## 🛠️ Como Executar o Projeto
+##  Como Executar o Projeto
 
 1. Instale o [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 2. Copie os arquivos para a pasta `htdocs/`
@@ -114,20 +113,20 @@ CREATE TABLE eventos (
 
 ---
 
-## 🤝 Contribuição Social
+##  Contribuição Social
 
 Esse sistema está sendo disponibilizado para coletivos, centros culturais, feiras e instituições ligadas à promoção da cultura em Recife e outras regiões. Seu uso gratuito permite que mais artistas e grupos ganhem visibilidade sem custos com plataformas pagas ou redes sociais.
 
 ---
 
-## 💬 Depoimento da Instituição Participante
+##  Depoimento da Instituição Participante
 
 > “O sistema desenvolvido pelo aluno Francieudes nos ajudou muito na organização e divulgação dos eventos mensais. A facilidade de uso da plataforma permitiu que vários membros da comunidade cultural se engajassem mais nas ações. Foi uma contribuição muito valiosa.”
 > — Ana Beatriz, Coordenadora do Coletivo Cultural Recife Criativo
 
 ---
 
-## 📖 Referências Bibliográficas
+##  Referências Bibliográficas
 
 * BENYON, David. *Interação Humano-Computador*. São Paulo: Pearson, 2011.
 * SEGURAGO, Valquíria Santos. *Projeto de Interface com o Usuário*. São Paulo: Pearson, 2017.
@@ -157,11 +156,3 @@ Contato: \[adicione e-mail ou GitHub se desejar]
 ## 📝 Licença
 
 Este projeto é de código aberto sob a licença MIT. Sinta-se à vontade para usar, melhorar e distribuir, desde que com os devidos créditos.
-
-```
-
----
-
-Deseja que eu gere esse README como um arquivo `.md` ou `.pdf` para você? Posso também anexá-lo ao projeto ou formatá-lo no seu documento final.
-```
-**
